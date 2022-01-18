@@ -1,1 +1,1 @@
-### Aim of the experiment
+Perform the simulation experiment on eccentric cam mechanism, thereby finding out the position, velocity, acceleration, and jerk of a cam with respect to time and note down the effect change in the radius, eccentricity, angular position, and speed on the position, velocity, acceleration and jerk of the follower.
