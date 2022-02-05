@@ -2,8 +2,8 @@
 
 After completing the simulation experiment on eccentric and elliptical cam one should be able to:
 
-* To understand the position, velocity, acceleration and jerk of a cam with respect to time.
-* To observe the effect of change in radius, eccentricity, angular position and speed on the position, velocity, acceleration and jerk of the follower.
+- To understand the position, velocity, acceleration and jerk of a cam with respect to time.
+- To observe the effect of change in radius, eccentricity, angular position and speed on the position, velocity, acceleration and jerk of the follower.
 
 ## Introduction
 
@@ -122,7 +122,7 @@ The cam profile can be transferred onto the work piece by using a roller followe
 **Velocity and Acceleration Analysis:**
 
 **Eccentric Cam:**
-An eccentric cam (Figure 6 ) is a disc with its centre of rotation positioned â€˜off centre. This means as the cam rotates the flat follower rises and falls at a constant rate. This type of cam is the easiest to make, and yet it is one of the most useful. It is most often employed in steam engines and used to convert rotary into linear reciprocating motion in order to drive a sliding valve or a pump ram.
+An eccentric cam (Figure 6 ) is a disc with its centre of rotation positioned off centre. This means as the cam rotates the flat follower rises and falls at a constant rate. This type of cam is the easiest to make, and yet it is one of the most useful. It is most often employed in steam engines and used to convert rotary into linear reciprocating motion in order to drive a sliding valve or a pump ram.
 
 <div style="text-align: center">
 
@@ -142,7 +142,7 @@ a = eccentricity<br>
 r= radius of circular cam<br>
 Î¸= angular position of cam<br>
 Î¸= angular position of eccentric cam with respect to normal<br>
-Ï‰= angular velocity of the cam (assumed to be constant)<br><br>
+Ï = angular velocity of the cam (assumed to be constant)<br><br>
 With respect to the Figure 7, the position of the follower of the elliptical cam is given by:
 
 <div style="text-align: center">
@@ -213,7 +213,7 @@ The position p of the follower of the elliptical cam is given by,
 
 </div>
 
-where, a is the semi-major axis of the ellipse, b = semi-minor axis of the ellipse Î¸ = angle made by the semi-major axis with the horizontal m= slope of the major axis Ï‰ = angular velocity of the cam (assumed to be constant)<br>
+where, a is the semi-major axis of the ellipse, b = semi-minor axis of the ellipse Î¸ = angle made by the semi-major axis with the horizontal m= slope of the major axis Ï = angular velocity of the cam (assumed to be constant)<br>
 The slope of the major axis with respect to the vertical is:
 
 <div style="text-align: center">
