@@ -139,10 +139,10 @@ A detailed mathematical formulation to derive the velocity, acceleration and jer
 A schematic representation of an eccentric cam is show in Figure 7.<br>
 Let,<br>
 a = eccentricity<br>
-r= radius of circular cam<br>
-Î¸= angular position of cam<br>
-Î¸= angular position of eccentric cam with respect to normal<br>
-Ï = angular velocity of the cam (assumed to be constant)<br><br>
+r = radius of circular cam<br>
+θ = angular position of cam<br>
+θ = angular position of eccentric cam with respect to normal<br>
+ω = angular velocity of the cam (assumed to be constant)br><br>
 With respect to the Figure 7, the position of the follower of the elliptical cam is given by:
 
 <div style="text-align: center">
@@ -213,7 +213,7 @@ The position p of the follower of the elliptical cam is given by,
 
 </div>
 
-where, a is the semi-major axis of the ellipse, b = semi-minor axis of the ellipse Î¸ = angle made by the semi-major axis with the horizontal m= slope of the major axis Ï = angular velocity of the cam (assumed to be constant)<br>
+where, a is the semi-major axis of the ellipse, b = semi-minor axis of the ellipse θ¸ = angle made by the semi-major axis with the horizontal m= slope of the major axis ω = angular velocity of the cam (assumed to be constant)<br>
 The slope of the major axis with respect to the vertical is:
 
 <div style="text-align: center">
