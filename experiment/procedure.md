@@ -1,25 +1,19 @@
-1. The simulation of eccentric cam is developed using JavaScript and HTML.
-2. The simulation initially begins with the default set of parameters which can be changed by adjusting the scroll of respective parameter as shown below.
+### Procedure
 
-<div style="text-align: center">
+<div style="text-align:left">
+  Click on the Simulation icon    <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation screen. 
 
-![img](./images/exp20-1.png)
+   ![Alt text](images/Simscreen1.png)
+   
+   In order to view the variable section click on the Variable icon. <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;">
 
-</div>
+   ![Alt text](images/var2.png)
 
-3. For starting a simulation, select appropriate parameters for the simulation and click on the play.
+   Click on Play icon <img src="images/play1.png" alt="Alt text" style="height:80px; width:80px;"> to run the simulation and click on Pause icon <img src="images/pause.png" alt="Alt text" style="height:80px; width:80px;"> to stop it.
 
-<div style="text-align: center">
+   Click on the Rotate icon  <img src="images/rotate_clockwise.png" alt="Alt text" style="height:80px; width:80px;"> to change the direction of rotation.
 
-![img](./images/exp20-2.png)
-
-</div>
-
-4. To view the graphs, click on show graph.
-5. Stopping the simulation after some time will give the position, velocity, acceleration and jerk at that instant.
-
-<div style="text-align: center">
-
-![img](./images/exp20-21.png)
+   Click on the Graph icon  <img src="images/graph1.png" alt="Alt text" style="height:80px; width:80px;"> to view the graph.    
+   ![Alt text](images/grapgscreen.png)
 
 </div>
