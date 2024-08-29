@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Cam angle is defined as the ",
+      "answers": {
+        "a": "Angle during which the follower returns to its initial position",
+        "b": "Angle of rotation of the cam for a definite displacement of the follower",
+        "c": "Angle moved by the cam from beginning of ascent to the termination of descent",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "For high speed engines, the cam follower should move with ",
+      "answers": {
+        "a": "Uniform velocity",
+        "b": "Simple harmonic motion",
+        "c": "Uniform acceleration & retardation",
+        "d": "Cycloidal motion"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "In its simplest form, a cam mechanism consists of following number of links",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Cam size depends upon",
+      "answers": {
+        "a": "Base circle",
+        "b": "Pitch circle",
+        "c": "Outer  circle",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    }
+  ]
+}
